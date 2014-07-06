@@ -1,0 +1,3 @@
+ponteiro_graphics_and_charts_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PonteiroGraphicsAndChartsBundle:Default:index }
