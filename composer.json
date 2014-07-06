@@ -1,0 +1,25 @@
+{
+    "name": "ponteiro/graphicsandcharts",
+    "type": "application",
+    "description": "Graphics and Chartsr",
+    "keywords": ["Graphics", "charts"],
+    "homepage": "https://github.com/PonteiroTeam/GraphicsAndCharts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ponteiro Team",
+            "email": "jorgefaianca@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": { "GraphicsAndCharts": "." }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev-master"
+        }
+    }
+}
